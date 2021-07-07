@@ -1,0 +1,25 @@
+.Learning h1 {
+  text-align: center;
+  font-size: 50px;
+}
+.swimming {
+  margin-left: 53em;
+}
+.swimming div {
+  width: 200px;
+  height: 150px;
+  margin-bottom: 10px;
+}
+#boy {
+  position: relative;
+  top: 120px;
+  z-index: 4;
+}
+#ring {
+  position: relative;
+  z-index: 2;
+}
+#water {
+  position: relative;
+  top: -130px;
+}
